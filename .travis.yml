@@ -16,7 +16,6 @@ deploy:
   app: "docker"
   env: "Docker-env-1"
   bucket_name: "docker"
-  bucket_path: "s3://elasticbeanstalk-us-east-2-042043866569/resources/_runtime/_embedded_extensions/docker/eabeea04dad342a5a182a4d61e99fb2d"
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
 on:
