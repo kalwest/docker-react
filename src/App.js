@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Nov 30 2021 Comeback to Docker Feature branch
+          Learn React now
         </a>
       </header>
     </div>
